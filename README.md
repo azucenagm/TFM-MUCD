@@ -4,15 +4,16 @@ Código fuente del TFM **'Minority Report en Londres: un análisis de los sesgos
 
 ## Resumen
 
-La inteligencia artificial es una de las tecnologías con mayor previsión de crecimiento en los próximos años y con un uso cada vez más extensivo en todos los sectores de actividad. Su aplicación en ámbitos especialmente sensibles, con gran impacto en la sociedad, está generando preocupación después de que varios estudios hayan puesto de manifiesto que los resultados obtenidos por algunos de estos algoritmos son injustos e incluso discriminatorios.
+La inteligencia artificial es una de las tecnologías con mayor previsión de crecimiento en los próximos años y con un uso cada vez más extensivo en todos los sectores de actividad. Su aplicación en ámbitos especialmente sensibles, con gran impacto en la sociedad, está generando preocupación después de que varios estudios hayan puesto de manifiesto que los resultados obtenidos por algunos de estos algoritmos son injustos y discriminatorios.
 
 A diferencia de estudios anteriores, enfocados fundamentalmente en datos y algoritmos norteamericanos, este trabajo emplea datos pertenecientes al Reino Unido, a Londres en concreto, para crear un modelo de policía predictiva con el objetivo de mostrar los sesgos en los que incurren este tipo de sistemas.
 
 La construcción del modelo se realiza siguiendo un proceso común y ampliamente utilizado en los proyectos de ciencia de datos, denominado KDD, y partiendo de las mismas premisas y similares fuentes de datos que otros modelos de vigilancia predictiva.
 
-Una vez analizados los resultados del modelo creado e identificados los sesgos, puede concluirse que el uso indiscriminado y generalizado de este tipo de sistemas sin intervención o revisión humana, no hace sino perpetuar y aumentar las desigualdades existentes actualmente en nuestra sociedad. 
+Una vez analizados los resultados del modelo creado e identificados sus sesgos, puede concluirse que el uso indiscriminado y generalizado de este tipo de sistemas sin intervención o revisión humana, no hace sino perpetuar y aumentar las desigualdades existentes actualmente en nuestra sociedad. 
 
 Es necesario establecer un marco de trabajo que facilite el conocimiento sobre el funcionamiento interno de este tipo de sistemas y aplique garantías para su uso dependiendo de la criticidad e impacto de su ámbito de actuación.
+
 
 ## Ficheros
 
@@ -33,11 +34,3 @@ Creación de gráficas adicionales a las existentes en el análisis exploratorio
 
 ### 99_tecnicas_oversampling
 Aplicación de varias técnicas de aumento de datos sobre un modelo base para intentar resolver los problemas de precisión encontrados para la clase minoritaria y que lastran el rendimiento global de los modelos diseñados.
-
-
-
-
-
-
-
-
