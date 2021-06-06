@@ -44,3 +44,4 @@ En la carpeta datasets pueden encontrarse los datos empleados para la realizaci�
 El archivo 3_imagen_arbol.png contiene una imagen a mayor resolución del árbol mostrado en el *notebook* de explicabilidad.   
 El archivo libs_config.txt contiene el listado de librerías y versiones utilizadas durante el proyecto.   
 En la carpeta maps se encuentran varios ficheros con información geográfica que son necesarios para visualizar los mapas de Londres.
+
